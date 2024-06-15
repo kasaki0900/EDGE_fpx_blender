@@ -1,5 +1,5 @@
 # 我形我塑
-## EDGE &mdash; 开源舞蹈动作生成模型代码精读
+## EDGE 开源舞蹈动作生成模 + fbxConverter + blender渲染
 
 + 原项目链接: https://github.com/Stanford-TML/EDGE
 + [原项目README](README_Original.md)
