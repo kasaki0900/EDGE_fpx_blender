@@ -1,5 +1,4 @@
-# 软件工程作业
-## 精读并标注开源软件的程序代码
+# 我形我塑
 ## EDGE &mdash; 开源舞蹈动作生成模型代码精读
 
 + 原项目链接: https://github.com/Stanford-TML/EDGE
